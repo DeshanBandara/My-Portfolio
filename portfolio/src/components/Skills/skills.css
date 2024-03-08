@@ -19,7 +19,7 @@
 
 .skillDesc {
     font-weight: 300;
-    font-size: 0.9rem;
+    font-size: 1rem;
     max-width: 60rem;
     padding: 0 2rem;
 }
@@ -44,4 +44,9 @@
     height: 3rem;
     width: 3rem;
     margin-right: 2rem;
+}
+
+.skillBarText {
+    font-size: 0.9rem;
+    font-weight: 200;
 }
