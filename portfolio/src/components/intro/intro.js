@@ -1,11 +1,17 @@
 import React from 'react'
 import './intro.css'
+import bg from '../../assest/image.JPG'
 
 
-const intro = () => {
+const Intro = () => {
   return (
-    <div>intro</div>
+    <section id='intro'>
+        <div className='introContent'>
+            <span className='hello'>Hello,</span>
+        </div>
+        <img src={bg} alt="profile" className='bg' />
+    </section>
   )
 }
 
-export default intro
+export default Intro
