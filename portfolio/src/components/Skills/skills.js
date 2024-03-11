@@ -12,9 +12,9 @@ const Skills = () => {
     <section id='skills'>
         <span className='skillTitle'>What I do</span>
         <span className='skillDesc'>
-          I am a skilled full-stack developer with expertise in creating visually appealing and user-friendly websites. 
-          I excel in frontend technologies such as HTML, CSS, and JavaScript, ensuring responsive design and intuitive user interfaces. 
-          On the backend, I specialize in building robust server-side architectures using frameworks like Node.js and databases like MySQL. 
+          I am a skilled full-stack developer with expertise in creating visually appealing, mobile responsive and user-friendly websites. 
+          I excel in frontend technologies such as HTML, CSS (Tailwindcss, Bootstrap), and JavaScript, ensuring responsive design and intuitive user interfaces. 
+          On the backend, I specialize in building robust server-side architectures using frameworks like Node.js and databases like MySQL. I'm expert in MERN stack (Nodejs, Reactjs, Expressjs and MongoDB)
           With a keen eye for detail and a passion for delivering high-quality results, I thrive in collaborative environments where I can 
           contribute to the success of web projects from start to finish.
         </span>
