@@ -36,7 +36,7 @@ This website serves as a digital portfolio to showcase my work, skills, and expe
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/your-username/your-portfolio.git](https://github.com/DeshanBandara/My-Portfolio.git)https://github.com/DeshanBandara/My-Portfolio.git
+git clone https://github.com/DeshanBandara/My-Portfolio.git
 ```
 
 ## Preview
